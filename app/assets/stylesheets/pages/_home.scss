@@ -2,3 +2,37 @@
  * SASS code SPECIFIC TO your home page
  * (margin/padding adjustments, background image, etc..)
  * ------------------------------------- */
+
+#home-top-1{
+  background-color: rgb(142, 23, 23);
+  height: 600px;
+  text-shadow: 0px 2px 0px rgba(51, 51, 51, 0.08);
+  background-image: image-url('background.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+#home-top-2{
+  background-color: $gray-lighter;
+}
+
+#home-top-2-1{
+  background-color: white;
+}
+
+#home-top-2-2{
+  background-color: white;
+}
+
+#home-top-3{
+  background-color: white;
+}
+
+#home-top-3-1{
+  background-color: $gray-lighter;
+}
+
+#home-top-3-2{
+  background-color: $gray-lighter;
+}
+
